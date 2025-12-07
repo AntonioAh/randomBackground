@@ -72,11 +72,8 @@ int main(){
 
       SDL_UpdateWindowSurface( gWindow );
     }
-    // }
   }
 
   close();
   return exitCode;
 }
-
-
